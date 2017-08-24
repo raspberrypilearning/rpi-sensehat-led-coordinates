@@ -1,19 +1,23 @@
-## Introduction
+The Sense HAT LED matrix uses a coordinate system. The numbering begins at **0** (not 1) in the **top left** corner.
 
-Add project description here. What will learners be making?
+![Coordinates](images/coordinates.png)
 
-### What you will make
+The blue pixel is at coordinates (0, 2)
+The red pixel is at coordinates (7, 4)
 
-Add something here to showcase here, for example:
+You can set pixels (LEDs) individually using the `set_pixel()` method.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+To replicate the above diagram you would enter a program like this:
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+```python
+from sense_hat import SenseHat
+sense = SenseHat()
 
-### What you will learn
+blue = (0, 0, 255)
+red = (255, 0, 0)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+sense.set_pixel(0, 2, blue)
+sense.set_pixel(7, 4, red)
+```
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+<iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
