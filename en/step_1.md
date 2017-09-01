@@ -1,4 +1,4 @@
-The Sense HAT's LED matrix uses a coordinate system. The numbering begins at `0` (not 1) in the top left-hand corner. Each LED can be used as one pixel of an image.
+The Sense HAT's LED matrix uses a coordinate system with an x- and a y-axis. The numbering of both axes begins at `0` (not 1) in the top left-hand corner. Each LED can be used as one pixel of an image, and it can be addressed using an `x, y` notation.
 
 ![Coordinates](images/coordinates.png)
 
