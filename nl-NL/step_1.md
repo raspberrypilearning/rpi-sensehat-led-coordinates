@@ -1,9 +1,9 @@
-The Sense HAT's LED matrix uses a coordinate system with an x- and a y-axis. The numbering of both axes begins at `0` (not 1) in the top left-hand corner. Each LED can be used as one pixel of an image, and it can be addressed using an `x, y` notation.
+De LED-matrix van de Sense HAT maakt gebruik van een coördinatensysteem met een x- en een y-as. De nummering van beide assen begint bij `0` (niet 1) in de linkerbovenhoek. Elke LED kan als één pixel van een afbeelding worden gebruikt en kan worden geadresseerd met een `x, y` notatie.
 
-![Coordinates](images/coordinates.png)
+![Coördinaten](images/coordinates.png)
 
-The blue pixel is at coordinates `0, 2`. The red pixel is at coordinates `7, 4`.
+De blauwe pixel bevindt zich op coördinaat `0, 2`. De rode pixel bevindt zich op coördinaat `7, 4`.
 
-You can set pixels (LEDs) individually using the `set_pixel()` method.
+Je kunt pixels (LED's) afzonderlijk instellen met de methode `set_pixel ()`.
 
-To replicate the diagram above, you would enter a program like this: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Om het bovenstaande diagram te reproduceren, voer je een programma als dit in: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
