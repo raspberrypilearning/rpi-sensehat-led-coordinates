@@ -1,7 +1,7 @@
 ---
-title: Sense HAT LED matrix coordinates
+title: Sense HAT LED-matrixcoördinaten
 hero_image: images/banner.png
-description: Learn how the LED matrix pixels can be referenced using coordinates
+description: Leer hoe naar de LED-matrixpixels kan worden verwezen met behulp van coördinaten
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "sense-hat, physical computing"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Inleiding
