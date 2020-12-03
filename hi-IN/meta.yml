@@ -1,0 +1,16 @@
+---
+title: Sense HAT LED मैट्रिक्स का निर्देशांक
+hero_image: images/banner.png
+description: निर्देशांक (coordinates) का उपयोग करके जानें कि LED मैट्रिक्स पिक्सेल (pixel) को कैसे संदर्भित किया जा सकता है
+theme: लाल #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: "sense-hat, physical computing"
+site_areas:
+steps:
+  - 
+    title: परिचय
