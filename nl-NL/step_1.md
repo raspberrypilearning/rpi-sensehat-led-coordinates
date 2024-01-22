@@ -6,4 +6,4 @@ De blauwe pixel bevindt zich op coördinaat `0, 2`. De rode pixel bevindt zich o
 
 Je kunt pixels (LED's) afzonderlijk instellen met de methode `set_pixel ()`.
 
-Om het bovenstaande diagram te reproduceren, voer je een programma als dit in: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Om het bovenstaande diagram te reproduceren, voer je een programma als dit in: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
