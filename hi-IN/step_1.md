@@ -6,4 +6,4 @@ Sense HAT का LED मैट्रिक्स x- और y- एक्सिस
 
 आप `set_pixel ()` विधि का उपयोग करके अलग-अलग पिक्सेल (pixel) (LEDs) सेट कर सकते हैं।
 
-ऊपर दिए गए चित्र को दोहराने के लिए, आप इस तरह के एक कार्यक्रम में प्रवेश करेंगे: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+ऊपर दिए गए चित्र को दोहराने के लिए, आप इस तरह के एक कार्यक्रम में प्रवेश करेंगे: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
