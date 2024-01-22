@@ -6,4 +6,4 @@ El píxel azul está en las coordenadas `0, 2`. El píxel rojo está en las coor
 
 Puedes configurar píxeles (LEDs) individualmente utilizando el método `set_pixel()`.
 
-Para replicar el diagrama de arriba, debes introducir un programa como este: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
+Para replicar el diagrama de arriba, debes introducir un programa como este: <iframe src="https://trinket.io/embed/python/c57565feac" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
