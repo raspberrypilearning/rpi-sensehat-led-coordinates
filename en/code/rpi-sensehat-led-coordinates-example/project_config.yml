@@ -1,0 +1,4 @@
+name: "Sense HAT LED coordinates"
+identifier: "rpi-sensehat-led-coordinates-example"
+type: 'python'
+build: true
